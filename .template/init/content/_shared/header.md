@@ -1,1 +1,1 @@
-Welcome to Cuttlebelle
+Welcome to DevOps trainings
